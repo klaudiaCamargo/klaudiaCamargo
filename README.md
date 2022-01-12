@@ -9,15 +9,15 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Spark" height="50" width="50" src="https://mshdinsight.gallerycdn.vsassets.io/extensions/mshdinsight/azure-hdinsight/1.1.16/1628176055773/Microsoft.VisualStudio.Services.Icons.Default" >
-  <img align="center" alt="airflow" height="30" width="70" src="https://www.apache.org/logos/res/airflow/default.png">
-  <img align="center" alt="databricks" height="30" width="40" src="https://symbols.getvecta.com/stencil_78/20_databricks-icon.41bbe8ac9f.png">
+  <img align="center" alt="Spark" height="40" width="40" src="https://mshdinsight.gallerycdn.vsassets.io/extensions/mshdinsight/azure-hdinsight/1.1.16/1628176055773/Microsoft.VisualStudio.Services.Icons.Default" >
+  <img align="center" alt="datafactory" height="25" width="45" src="https://cdn-qfles-prod.azureedge.net/assets/img/pages/adf.png">
+  <img align="center" alt="databricks" height="25" width="30" src="https://symbols.getvecta.com/stencil_78/20_databricks-icon.41bbe8ac9f.png">
+  <img align="center" alt="airflow" height="25" width="60" src="https://www.apache.org/logos/res/airflow/default.png">
   <img align="center" alt="jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="datafactory" height="30" width="40" src="https://cdn-qfles-prod.azureedge.net/assets/img/pages/adf.png">
-  <img align="center" alt="jira" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
 
   <img align="right" alt="foto-imagem" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/6d/1f/e46d1f49bb361f3c5a2086e7ad3b9bda.png">
 </div>
